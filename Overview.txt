@@ -1,5 +1,5 @@
 Die Autonome Föderation setzt sich zum Ziel die wissenschaftliche Methode auf Fragen sozialer Belange anzuwenden. 
-Da der Mensch auf seine umwelt angewisen ist, muss der Erhalt seiner Umwelt - des Ökosystems sowie seiner 
+Da der Mensch auf seine Umwelt angewisen ist, muss der Erhalt seiner Umwelt - des Ökosystems sowie seiner 
 sozialen und wirtschaftlichen Lage als notwendig erachtet werden.
 
 Möglichkeiten diese Aspekte zu optimieren sind bereits vielfältig vorhanden, die Autonome Föderation 
@@ -7,15 +7,15 @@ versucht diese Projekte zu vernetzen und frei zu Verfügung zu stellen. Somit so
 dass eine Selbstorganisierte Gesellschaftsstruktur innerhalb der gegeben Verhältnisse wachsen kann. 
 Die Gruppenstrukrturierung der Autonomen Föderation soll in der Lage sein das bestehende System soweit 
 umzustrukturieren, dass für den Einzelnen und die Gemeinschaft ein Gewinn erreicht wird.
-Zur bewältigung jedweder Problemstellung wird, ähnlich wie bei einer PC-Programmentwicklung,die Ideenentwicklung 
+Zur Bewältigung jedweder Problemstellung wird, ähnlich wie bei einer PC-Programmentwicklung,die Ideenentwicklung 
 und -sammlung Opensource basiert betrieben. Die Auswahl, der letztlich anzuwendenden 
 Problemlösung, geschieht dann auf Grundlage wissenschaftlicher Methoden. 
 Grundgedanke ist dabei die Schaffung eines Individuellen Kooperativ-systems in dem die Motivation nicht durch 
-Gesetzgebung sondern durch Selbstbestimmung erreicht wird. Durch die Einteilung in Gruppen soll eine Möglichkeit 
-geschaffen werden, durch nur geringen Zeitaufwand der Einzelperson eine bessere wirtschaftliche Situation für den 
-Einzelnen sowie für die Gruppe zu erreichen. Die Organisation ist dabei allerdings nicht Profit orientiert sondern 
-nach Effizienz.
-Jede Entscheidung geht nach den 3 Grundsätzen des CHI vor:
+Gesetzgebung sondern durch Selbstbestimmung und Zweckorientiertheit erreicht wird. Durch die Einteilung in Gruppen,
+soll eine Möglichkeit geschaffen werden, durch nur geringen Zeitaufwand der Einzelperson eine bessere 
+wirtschaftliche Situation für den Einzelnen sowie für die Gruppe zu erreichen. Die Organisation ist dabei allerdings
+nicht Profit orientiert sondern nach Effizienz.
+Jede Entscheidung geht nach den 3 Grundsätzen des S.H.E. vor:
 			     1. Sustainible => Ist es dauerhaft Nutzbar?
 			     2. Human Needs => Wird es gebraucht?
 			     3. Effektivity => Kann es effektiv genug produziert werden?
